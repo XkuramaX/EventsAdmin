@@ -1,0 +1,12 @@
+.heading{
+  margin-top: 5%;
+}
+
+.fileuploadButton{
+  display: none;
+}
+
+.imgCard{
+  height: 20rem;
+  width: 100%;
+}

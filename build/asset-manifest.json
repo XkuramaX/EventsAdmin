@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5186999.chunk.css",
+    "main.js": "/static/js/main.60b06454.chunk.js",
+    "main.js.map": "/static/js/main.60b06454.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.216f8e32.js",
+    "runtime-main.js.map": "/static/js/runtime-main.216f8e32.js.map",
+    "static/js/2.86d50319.chunk.js": "/static/js/2.86d50319.chunk.js",
+    "static/js/2.86d50319.chunk.js.map": "/static/js/2.86d50319.chunk.js.map",
+    "static/js/3.7d84d5c7.chunk.js": "/static/js/3.7d84d5c7.chunk.js",
+    "static/js/3.7d84d5c7.chunk.js.map": "/static/js/3.7d84d5c7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d5186999.chunk.css.map": "/static/css/main.d5186999.chunk.css.map",
+    "static/js/2.86d50319.chunk.js.LICENSE.txt": "/static/js/2.86d50319.chunk.js.LICENSE.txt",
+    "static/media/sb-admin-2.min.css": "/static/media/loginImg.a2e3b3ea.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.216f8e32.js",
+    "static/js/2.86d50319.chunk.js",
+    "static/css/main.d5186999.chunk.css",
+    "static/js/main.60b06454.chunk.js"
+  ]
+}
